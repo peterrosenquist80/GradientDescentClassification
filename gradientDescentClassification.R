@@ -1,6 +1,6 @@
 
-# This script is a short exercise from a machine learning course. It 
-# implements a common machine learning algorithm known as gradient descent
+# This script is a short exercise from a machine learning course that I translated from 
+# python to R. It implements a common machine learning algorithm known as gradient descent
 # to predict students' likelihood of admission based on test scores and
 # admission of past students.
 
